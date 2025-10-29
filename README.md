@@ -46,6 +46,6 @@ Thread-safe server using sync.Mutex.
 Handles messages with spaces using bufio.NewReader.
 
 Video Demo
-Watch the chatroom in action: [Go Chatroom Demo Video](https://https://drive.google.com/file/d/1fNd88FCLWDcCvk0VR4auZ4WxKdeH_pPz/view?usp=sharing)
+Watch the chatroom in action: [Go Chatroom Demo Video](https://drive.google.com/file/d/1fNd88FCLWDcCvk0VR4auZ4WxKdeH_pPz/view?usp=sharing)
 
 
